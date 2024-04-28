@@ -126,9 +126,9 @@
 			isa = PBXGroup;
 			children = (
 				9CE10DF62BDD486B00339C1E /* CharacterRow.swift */,
-				9C2FE6732BDE9A6C00730E94 /* ErrorView.swift */,
-				9CDB83AF2BDE400F0018CB17 /* FavoriteButton.swift */,
 				9CDB83AB2BDDB9B60018CB17 /* SearchBar.swift */,
+				9CDB83AF2BDE400F0018CB17 /* FavoriteButton.swift */,
+				9C2FE6732BDE9A6C00730E94 /* ErrorView.swift */,
 			);
 			path = ComponentsViews;
 			sourceTree = "<group>";
@@ -159,10 +159,10 @@
 			isa = PBXGroup;
 			children = (
 				9CE476522BD8214B00ACAD15 /* Assets.xcassets */,
+				9CDB83B52BDE61CD0018CB17 /* Resources */,
 				9CE4767D2BD832A700ACAD15 /* Features */,
 				9CE476542BD8214B00ACAD15 /* Preview Content */,
 				9CE4767C2BD8328600ACAD15 /* Providers */,
-				9CDB83B52BDE61CD0018CB17 /* Resources */,
 				9CE4764E2BD8214900ACAD15 /* RickAndMortyByTinApp.swift */,
 			);
 			path = RickAndMortyByTin;
@@ -197,8 +197,8 @@
 			isa = PBXGroup;
 			children = (
 				9CE10DFA2BDD5D8F00339C1E /* ComponentsViews */,
-				9CE10DF42BDBA31800339C1E /* DetailView.swift */,
 				9CE476502BD8214900ACAD15 /* MainView.swift */,
+				9CE10DF42BDBA31800339C1E /* DetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -232,8 +232,8 @@
 			isa = PBXGroup;
 			children = (
 				9CE476802BD8332300ACAD15 /* Models */,
-				9CE4767A2BD822C100ACAD15 /* ViewModel */,
 				9CE476782BD8228E00ACAD15 /* Views */,
+				9CE4767A2BD822C100ACAD15 /* ViewModel */,
 			);
 			path = Main;
 			sourceTree = "<group>";

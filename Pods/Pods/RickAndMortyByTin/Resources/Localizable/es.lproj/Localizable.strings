@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  RickAndMortyByTin
+
+  Created by Valentín Sánchez Campañón on 28/4/24.
+  
+*/
+
+"loading..." = "Cargando...";
+"Characters" = "Personajes";
+"Gender:"  = "Género:";
+"getCharacter" = "Obtén los personajes";
+"Location:" = "Localización:";
+"Origin:" = "Origen:";
+"Search..." = "Buscar...";
+"Select a character" = "Selecciona a un personaje";
+"Species:" = "Especie:";
+"Status:" = "Estatus:";
+"Toggle Favorite" = "Selecciona como favorito";
+"Loading_Error" = "Error al cargar los personajes";
+"Retry" = "Reintentar";
