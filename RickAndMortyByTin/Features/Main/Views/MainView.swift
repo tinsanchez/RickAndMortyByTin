@@ -74,7 +74,6 @@ struct MainView: View {
                                     .accessibilityHidden(true)
                                 CharacterRow(character: character)
                             }
-                            
                         }
                         /// Notes: added  a unique id to update the Navigation link after navigate and change some parameters
                         .id(UUID())
