@@ -1,0 +1,2 @@
+# RickAndMortyByTin
+Prueba técnica.
